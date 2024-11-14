@@ -1,1 +1,2 @@
-download and run the file as admin to install nick protection
+disable any anti virus software as it could falsely detect the file as malware
+run the file as administrator
